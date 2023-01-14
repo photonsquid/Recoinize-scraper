@@ -110,6 +110,32 @@ If a JSON file (`{root}/{json}`) file already exists, it will override it.
 
 ## Add a scraper
 
+I didn't have time to write docs about this, but you can see examples in `./src/scrapers/`.
+
+Your classes have to inherit from `Scraper` and implement the `scraper` method.
+The constructor has to have this line: `super().__init__(self, args, logger, NAME, BASE_URL)`,
+where:
+
+- `args` is the arguments passed to the command (cf. [here](#arguments))
+- `loger` is the logger from the app (`main.py`)
+- `NAME`, name of the scraper. This is compulsory, and will be used to create the JSON file.
+- `BASE_URL`, base URL of the website.
+
+The `scrape` has to return a dictionary with the following keys:
+
+| key              | type               | description                                                      |
+| ---------------- | ------------------ | ---------------------------------------------------------------- |
+| `countryCode`    | `string`           | country code in two letters, cf. [this list](#list-of-countries) |
+| `value`          | `string`           | value of the coin, cf. [this list](#regular-coins)               |
+| `url`            | `string`           | URL of the coin                                                  |
+| `particularity`  | `string` or `null` | particularity of the coin, cf. [this list](#special-coins)       |
+| `imageExtension` | `string` or `null` | extension of the image                                           |
+| `special_path`   | `string` or `null` | special path of the image                                        |
+
+The special path is used in the root file.
+If it is null (default), then the image will be downloaded in `{root}/coins/`.
+If it is not null, then the image will be downloaded in `{root}/coins/{special_path}/`.
+
 ## JSON file
 
 When data is scraped, a new JSON file is created containing data for each image.

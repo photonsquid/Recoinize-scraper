@@ -17,3 +17,5 @@ SCRAPER_BASE_URL_NOT_SET = "Scraper base url not set."
 
 CHANGING_ROOT = "Root is now {}"
 CHANGING_JSON_PATH = "JSON path is now {}"
+
+COUNTRY_CODE_NOT_FOUND = "Country code for {} not found."
