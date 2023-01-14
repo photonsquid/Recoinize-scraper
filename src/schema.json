@@ -1,0 +1,39 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "type": "array",
+    "items": {
+        "type": "object",
+        "properties": {
+            "url": {
+                "type": "string",
+                "format": "uri"
+            },
+            "particularity": {
+                "type": [
+                    "string",
+                    "null"
+                ]
+            },
+            "countryCode": {
+                "type": "string"
+            },
+            "value": {
+                "type": "string"
+            },
+            "countryName": {
+                "type": "string"
+            },
+            "imageExtension": {
+                "type": "string"
+            }
+        },
+        "required": [
+            "url",
+            "particularity",
+            "countryCode",
+            "value",
+            "countryName",
+            "imageExtension"
+        ]
+    }
+}
