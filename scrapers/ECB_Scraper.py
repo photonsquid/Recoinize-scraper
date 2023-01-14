@@ -95,7 +95,7 @@ class ECB_Scraper(Scraper):
                         img["imageExtension"] = extension
                         img["countryName"] = countryName
                         img["value"] = coin_value
-                        img["special_path"] = self.special_path
+                        img["specialPath"] = self.special_path
 
                     # append src to images and flatten the list
                     images.extend(src)

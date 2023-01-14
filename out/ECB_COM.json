@@ -1,0 +1,3926 @@
+[
+    {
+        "countryCode": "va",
+        "countryName": "Vatican City",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2004_va.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "it",
+        "countryName": "Italy",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2004_it.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sm",
+        "countryName": "San Marino",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2004_sm.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fi",
+        "countryName": "Finland",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2004_fi.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lu",
+        "countryName": "Luxembourg",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2004_lu.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "gr",
+        "countryName": "Greece",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2004_el.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "va",
+        "countryName": "Vatican City",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2005_va.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sm",
+        "countryName": "San Marino",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2005_sm.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "it",
+        "countryName": "Italy",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2005_it.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fi",
+        "countryName": "Finland",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2005_fi.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "at",
+        "countryName": "Austria",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2005_at.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "es",
+        "countryName": "Spain",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2005_sp.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "be",
+        "countryName": "Belgium",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2005_be.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lu",
+        "countryName": "Luxembourg",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2005_lu_2.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "va",
+        "countryName": "Vatican City",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2006_va.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sm",
+        "countryName": "San Marino",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2006_sm.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fi",
+        "countryName": "Finland",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2006_fi.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "be",
+        "countryName": "Belgium",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2006_be.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "de",
+        "countryName": "Germany",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2006_de.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "it",
+        "countryName": "Italy",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2006_it.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lu",
+        "countryName": "Luxembourg",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2006_lu.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fi",
+        "countryName": "Finland",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2007_Finland.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sm",
+        "countryName": "San Marino",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2007_San_marino.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "va",
+        "countryName": "Vatican City",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2007_va.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "mo",
+        "countryName": "Monaco",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2007_Monaco.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "pt",
+        "countryName": "Portugal",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2007_Portugal.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "at",
+        "countryName": "joint_comm_2007_Austria",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/joint_comm_2007_Austria.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "be",
+        "countryName": "joint_comm_2007_Belgium",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/joint_comm_2007_Belgium.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fi",
+        "countryName": "joint_comm_2007_Finland",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/joint_comm_2007_Finland.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fr",
+        "countryName": "joint_comm_2007_France",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/joint_comm_2007_France.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "de",
+        "countryName": "joint_comm_2007_Germany",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/joint_comm_2007_Germany.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "gr",
+        "countryName": "joint_comm_2007_Greece",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/joint_comm_2007_Greece.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "ie",
+        "countryName": "joint_comm_2007_Ireland",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/joint_comm_2007_Ireland.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "it",
+        "countryName": "joint_comm_2007_Italy",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/joint_comm_2007_Italy.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lu",
+        "countryName": "joint_comm_2007_Luxembourg",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/joint_comm_2007_Luxembourg.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "nl",
+        "countryName": "joint_comm_2007_Netherlands",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/joint_comm_2007_Netherlands.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "pt",
+        "countryName": "joint_comm_2007_Portugal",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/joint_comm_2007_Portugal.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sl",
+        "countryName": "joint_comm_2007_Slovenia",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/joint_comm_2007_Slovenia.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "es",
+        "countryName": "joint_comm_2007_Spain",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/joint_comm_2007_Spain.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "de",
+        "countryName": "Germany",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2007_Germany.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lu",
+        "countryName": "Luxembourg",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2007_luxembourg.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "va",
+        "countryName": "Vatican City",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2008_Vatican.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fi",
+        "countryName": "Finland",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2008_Finland.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "pt",
+        "countryName": "Portugal",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2008_Portugal1.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fr",
+        "countryName": "France",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2008_France1.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sl",
+        "countryName": "Slovenia",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2008_Slovenia.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "be",
+        "countryName": "Belgium",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2008_Belgium.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sm",
+        "countryName": "San Marino",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2008_San_Marino.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "it",
+        "countryName": "Italy",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2008_Italy.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lu",
+        "countryName": "Luxembourg",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2008_luxembourg.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "de",
+        "countryName": "Germany",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2008_de.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sk",
+        "countryName": "Slovakia",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2009_sk.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fi",
+        "countryName": "Finland",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2009_fi.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "va",
+        "countryName": "Vatican City",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2009_va.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "it",
+        "countryName": "Italy",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2009_it.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "be",
+        "countryName": "Belgium",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2009_be.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "pt",
+        "countryName": "Portugal",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2009_pt.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sm",
+        "countryName": "San Marino",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2009_sm.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "de",
+        "countryName": "Germany",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2009_de.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "at",
+        "countryName": "joint_comm_2009_Austria",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/joint_comm_2009_Austria.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "be",
+        "countryName": "joint_comm_2009_Belgium",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/joint_comm_2009_Belgium.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "cy",
+        "countryName": "joint_comm_2009_Cyprus",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/joint_comm_2009_Cyprus.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fi",
+        "countryName": "joint_comm_2009_Finland",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/joint_comm_2009_Finland.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fr",
+        "countryName": "joint_comm_2009_France",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/joint_comm_2009_France.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "de",
+        "countryName": "joint_comm_2009_Germany",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/joint_comm_2009_Germany.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "gr",
+        "countryName": "joint_comm_2009_Greece",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/joint_comm_2009_Greece.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "ie",
+        "countryName": "joint_comm_2009_Ireland",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/joint_comm_2009_Ireland.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "it",
+        "countryName": "joint_comm_2009_Italy",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/joint_comm_2009_Italy.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lu",
+        "countryName": "joint_comm_2009_Luxembourg",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/joint_comm_2009_Luxembourg.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lu",
+        "countryName": "joint_comm_2009_Luxembourg_Face",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/joint_comm_2009_Luxembourg_Face.jpg",
+        "particularity": "eu_com_2009_Face",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "mt",
+        "countryName": "joint_comm_2009_Malta",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/joint_comm_2009_Malta.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "nl",
+        "countryName": "joint_comm_2009_Netherlands",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/joint_comm_2009_Netherlands.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "pt",
+        "countryName": "joint_comm_2009_Portugal",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/joint_comm_2009_Portugal.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sk",
+        "countryName": "joint_comm_2009_Slovakia",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/joint_comm_2009_Slovakia.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sl",
+        "countryName": "joint_comm_2009_Slovenia",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/joint_comm_2009_Slovenia.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "es",
+        "countryName": "joint_comm_2009_Spain",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/joint_comm_2009_Spain.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lu",
+        "countryName": "Luxembourg",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2009_lu.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "gr",
+        "countryName": "Greece",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2010_el.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "va",
+        "countryName": "Vatican City",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2010_va.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fi",
+        "countryName": "Finland",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2010_fi.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sm",
+        "countryName": "San Marino",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2010_sm.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "pt",
+        "countryName": "Portugal",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2010_pt.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fr",
+        "countryName": "France",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2010_fr.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "be",
+        "countryName": "Belgium",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2010_be.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sl",
+        "countryName": "Slovenia",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2010_sl.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "es",
+        "countryName": "Spain",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2010_es.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "it",
+        "countryName": "Italy",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2010_it.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lu",
+        "countryName": "Luxembourg",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2010_lu.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "de",
+        "countryName": "Germany",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2010_de.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "mt",
+        "countryName": "Malta",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2011_mt.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "va",
+        "countryName": "Vatican City",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2011_va.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fi",
+        "countryName": "Finland",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2011_fi.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "pt",
+        "countryName": "Portugal",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2011_pt.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "mo",
+        "countryName": "Monaco",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2011_mc.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fr",
+        "countryName": "France",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2011_fr.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "gr",
+        "countryName": "Greece",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2011_el.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sm",
+        "countryName": "San Marino",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2011_sm.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "it",
+        "countryName": "Italy",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2011_it.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "es",
+        "countryName": "Spain",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2011_es.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sl",
+        "countryName": "Slovenia",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2011_sl.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "be",
+        "countryName": "Belgium",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2011_be.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sk",
+        "countryName": "Slovakia",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2011_sk.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lu",
+        "countryName": "Luxembourg",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2011_lu.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "nl",
+        "countryName": "The Netherlands",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2011_nl.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "de",
+        "countryName": "Germany",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2011_de.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lu",
+        "countryName": "Luxembourg",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2012/comm_2013_lu.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "va",
+        "countryName": "Vatican City",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2012/comm_2012_va.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fi",
+        "countryName": "Finland",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2012/comm_2012_fi.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "mt",
+        "countryName": "Malta",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2012/comm_2012_mt.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "mo",
+        "countryName": "Monaco",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2012/comm_2012_mc.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fr",
+        "countryName": "France",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2012/comm_2012_fr.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "pt",
+        "countryName": "Portugal",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2012/comm_2012_pt.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "be",
+        "countryName": "Belgium",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2012/comm_2012_be.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "it",
+        "countryName": "Italy",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2012/comm_2012_it.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "es",
+        "countryName": "Spain",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2012/comm_2012_es.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "at",
+        "countryName": "joint_comm_2012_Austria",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2012/joint_comm_2012_Austria.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "be",
+        "countryName": "joint_comm_2012_Belgium",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2012/joint_comm_2012_Belgium.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "cy",
+        "countryName": "joint_comm_2012_Cyprus",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2012/joint_comm_2012_Cyprus.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "et",
+        "countryName": "joint_comm_2012_Estonia",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2012/joint_comm_2012_Estonia.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fi",
+        "countryName": "joint_comm_2012_Finland",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2012/joint_comm_2012_Finland.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fr",
+        "countryName": "joint_comm_2012_France",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2012/joint_comm_2012_France.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "de",
+        "countryName": "joint_comm_2012_Germany",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2012/joint_comm_2012_Germany.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "gr",
+        "countryName": "joint_comm_2012_Greece",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2012/joint_comm_2012_Greece.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "ie",
+        "countryName": "joint_comm_2012_Ireland",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2012/joint_comm_2012_Ireland.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "it",
+        "countryName": "joint_comm_2012_Italy",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2012/joint_comm_2012_Italy.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lu",
+        "countryName": "joint_comm_2012_Luxembourg",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2012/joint_comm_2012_Luxembourg.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "mt",
+        "countryName": "joint_comm_2012_Malta",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2012/joint_comm_2012_Malta.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "nl",
+        "countryName": "joint_comm_2012_Netherlands",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2012/joint_comm_2012_Netherlands.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "pt",
+        "countryName": "joint_comm_2012_Portugal",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2012/joint_comm_2012_Portugal.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sm",
+        "countryName": "joint_comm_2012_San_Marino",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2012/joint_comm_2012_San_Marino.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sk",
+        "countryName": "joint_comm_2012_Slovakia",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2012/joint_comm_2012_Slovakia.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sl",
+        "countryName": "joint_comm_2012_Slovenia",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2012/joint_comm_2012_Slovenia.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "es",
+        "countryName": "joint_comm_2012_Spain",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2012/joint_comm_2012_Spain.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lu",
+        "countryName": "Luxembourg",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2012/comm_2012_lu.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "de",
+        "countryName": "Germany",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2012/comm_2012_de.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "nl",
+        "countryName": "Netherlands",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2013_Netherlands.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fi",
+        "countryName": "Finland",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2013_Finland.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "mt",
+        "countryName": "Malta",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2013_Malta.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "va",
+        "countryName": "Vatican City",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2013_Vatican_Rio.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "gr",
+        "countryName": "Greece",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2013_Greece.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "gr",
+        "countryName": "Greece",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2013_Greece_Plato.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sm",
+        "countryName": "San Marino",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2013_San_Marino.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "be",
+        "countryName": "Belgium",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2013_Belgium.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fi",
+        "countryName": "Finland",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2013_Finland_Suomi.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lu",
+        "countryName": "Luxembourg",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2013_Luxembourg.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sk",
+        "countryName": "Slovakia",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2013_sk.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "mo",
+        "countryName": "Monaco",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2013_Monaco.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "it",
+        "countryName": "Italy",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2013_Italy_Boccaccio.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "pt",
+        "countryName": "Portugal",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2013_Portugal.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fr",
+        "countryName": "France",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2013_fr_2.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "va",
+        "countryName": "Vatican City",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2013_Vatican.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "it",
+        "countryName": "Italy",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2013_Italy_Verdi.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "nl",
+        "countryName": "Netherlands",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2013_Netherlands_Abdication.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "de",
+        "countryName": "Germany",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2013_Germany.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sl",
+        "countryName": "Slovenia",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2013_sl.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "es",
+        "countryName": "Spain",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2013_es.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fr",
+        "countryName": "France",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2013_fr.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "de",
+        "countryName": "Germany",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2013_de.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "es",
+        "countryName": "Spain",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2014_Spain_Head.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fr",
+        "countryName": "France",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2014_France_2.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fi",
+        "countryName": "Finland",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2014_Finland_2.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "va",
+        "countryName": "Vatican City",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2014_Vatican.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sl",
+        "countryName": "Slovenia",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2014_Slovenia.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lu",
+        "countryName": "Luxembourg",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2014_Luxembourg_2.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "pt",
+        "countryName": "Portugal",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2014_Portugal_Farming.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "mt",
+        "countryName": "Malta",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2014_Malta_2.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sm",
+        "countryName": "San Marino",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2014_San_Marino_Puccini.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "be",
+        "countryName": "Belgium",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2014_Belgium_Cross.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "gr",
+        "countryName": "Greece",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2014_Greece.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "gr",
+        "countryName": "Greece",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2014_Greece_2.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lv",
+        "countryName": "Latvia",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2014_Latvia.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "mt",
+        "countryName": "Malta",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2014_Malta.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sm",
+        "countryName": "San Marino",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2014_San_Marino_Lazzari.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fi",
+        "countryName": "Finland",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2014_Finland.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "it",
+        "countryName": "Italy",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2014_Italy.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "it",
+        "countryName": "Italy",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2014_Italy_2.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fr",
+        "countryName": "France",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2014_France.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "nl",
+        "countryName": "Netherlands",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2014_Netherlands.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sk",
+        "countryName": "Slovakia",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2014_Slovakia.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "pt",
+        "countryName": "Portugal",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2014_Portugal.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "be",
+        "countryName": "Belgium",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2014_Belgium.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "es",
+        "countryName": "Spain",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2014_Spain.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "ad",
+        "countryName": "Andorra",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2014_andorra_council.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lu",
+        "countryName": "Luxembourg",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2014_Luxembourg.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "de",
+        "countryName": "Germany",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2014_Germany_Niedersachsen.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lt",
+        "countryName": "Lithuania",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2015_lithuania.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "ad",
+        "countryName": "Andorra",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2015_andorra_30.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "ad",
+        "countryName": "Andorra",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2015_andorra_25.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "mo",
+        "countryName": "Monaco",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2015_Monaco.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "va",
+        "countryName": "Vatican City",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2015_Vatican_City.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fi",
+        "countryName": "Finland",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2015_Finland_akseli.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lv",
+        "countryName": "Latvia",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2015_Latvia_Stork.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sk",
+        "countryName": "Slovakia",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2015_Slovakia.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "at",
+        "countryName": "joint_comm_2015_Austria",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/joint_comm_2015_Austria.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "be",
+        "countryName": "joint_comm_2015_Belgium",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/joint_comm_2015_Belgium.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "cy",
+        "countryName": "joint_comm_2015_Cyprus",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/joint_comm_2015_Cyprus.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "et",
+        "countryName": "joint_comm_2015_Estonia",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/joint_comm_2015_Estonia.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fi",
+        "countryName": "joint_comm_2015_Finland",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/joint_comm_2015_Finland.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fr",
+        "countryName": "joint_comm_2015_France",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/joint_comm_2015_France.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "de",
+        "countryName": "joint_comm_2015_Germany",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/joint_comm_2015_Germany.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "gr",
+        "countryName": "joint_comm_2015_Greece",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/joint_comm_2015_Greece.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "ie",
+        "countryName": "joint_comm_2015_Ireland",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/joint_comm_2015_Ireland.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "it",
+        "countryName": "joint_comm_2015_Italy",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/joint_comm_2015_Italy.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lv",
+        "countryName": "joint_comm_2015_Latvia",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/joint_comm_2015_Latvia.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lt",
+        "countryName": "joint_comm_2015_Lithuania",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/joint_comm_2015_Lithuania.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lu",
+        "countryName": "joint_comm_2015_Luxembourg",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/joint_comm_2015_Luxembourg.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "mt",
+        "countryName": "joint_comm_2015_Malta",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/joint_comm_2015_Malta.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "nl",
+        "countryName": "joint_comm_2015_Nederland",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/joint_comm_2015_Nederland.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "pt",
+        "countryName": "joint_comm_2015_Portugal",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/joint_comm_2015_Portugal.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sk",
+        "countryName": "joint_comm_2015_Slovakia",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/joint_comm_2015_Slovakia.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sl",
+        "countryName": "joint_comm_2015_Slovenia",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/joint_comm_2015_Slovenia.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "es",
+        "countryName": "joint_comm_2015_Spain",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/joint_comm_2015_Spain.jpg",
+        "particularity": "eu_",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "gr",
+        "countryName": "Greece",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2015_Greece.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "mt",
+        "countryName": "Malta",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2015_Malta_Republic1974.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sm",
+        "countryName": "San Marino",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2015_San_Marino_25thGermanReunification.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "be",
+        "countryName": "Belgium",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2015_Belgium.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lu",
+        "countryName": "Luxembourg",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2015_Luxembourg.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fr",
+        "countryName": "France",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2015_France_Liberte.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "it",
+        "countryName": "Italy",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2015_Italy_Alighieri.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "pt",
+        "countryName": "Portugal",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2015_Portugal_ship.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "pt",
+        "countryName": "Portugal",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2015_Portugal.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sm",
+        "countryName": "San Marino",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2015_San_Marino.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "mt",
+        "countryName": "Malta",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2015_Malta.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lu",
+        "countryName": "Luxembourg",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2015_Luxembourg_15_anniversary.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "it",
+        "countryName": "Italy",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2015_Italy_expo.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "es",
+        "countryName": "Spain",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2015_Spain.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "de",
+        "countryName": "Germany",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2015_de_Unity.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "de",
+        "countryName": "Germany",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2015_de_Hessen.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sl",
+        "countryName": "Slovenia",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2015_Slovenia.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fr",
+        "countryName": "France",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2015_France_peace.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fi",
+        "countryName": "Finland",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2015_Finland.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lv",
+        "countryName": "Latvia",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2015_Latvia.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "gr",
+        "countryName": "Greece",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2016_greece_monastery.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "gr",
+        "countryName": "Greece",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2016_greece_dimitri.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "ad",
+        "countryName": "Andorra",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2016_andorra_radio.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "ad",
+        "countryName": "Andorra",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2016_andorra_150_anniversary.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "mt",
+        "countryName": "Malta",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2016_malta_solidarity.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lv",
+        "countryName": "Latvia",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2016_latvia_vidzeme.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fr",
+        "countryName": "France",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2016_france_mitterand.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "va",
+        "countryName": "Vatican",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2016_vatican_mercy.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fi",
+        "countryName": "Finland",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2016_finland_wright.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sm",
+        "countryName": "San Marino",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2016_san_marino_sheakspeare.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "mt",
+        "countryName": "Malta",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2016_malta.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "pt",
+        "countryName": "Portugal",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2016_portugal_bridge.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lt",
+        "countryName": "Lithuania",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2016_Lithuania_baltic_culture.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "va",
+        "countryName": "Vatican City",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2016_vatican_guard.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lv",
+        "countryName": "Latvia",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2016_latvia_agriculture.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "mo",
+        "countryName": "Monaco",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2016_monaco_charles.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sl",
+        "countryName": "Slovenia",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2016_slovenia_independence.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "be",
+        "countryName": "Belgium",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2016_belgium_children.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fi",
+        "countryName": "Finland",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2016_finland_leino.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sm",
+        "countryName": "San Marino",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2016_san_marino_donatello.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "pt",
+        "countryName": "Portugal",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2016_portugal_olympics_270.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "it",
+        "countryName": "Italy",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2016_italy_donatello_270.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "it",
+        "countryName": "Italy",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2016_italy_plauto_270.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "be",
+        "countryName": "Belgium",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2016_belgium.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sk",
+        "countryName": "Slovakia",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2016_slovakia_presidency.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lu",
+        "countryName": "Luxembourg",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2016_luxembourg_bridge_270.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "de",
+        "countryName": "Germany",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2016_germany.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "es",
+        "countryName": "Spain",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2016_spain.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "at",
+        "countryName": "Austria",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2016_austria.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fr",
+        "countryName": "France",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2016_france.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "et",
+        "countryName": "Estonia",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2016_estonia.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "ie",
+        "countryName": "Ireland",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2016_ireland.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "ad",
+        "countryName": "Andorra",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2017_Andorra_pyrenean.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "ad",
+        "countryName": "Andorra",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2017_Andorra_100years.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "mt",
+        "countryName": "Malta",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2017_Malta_Solidarity.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "mo",
+        "countryName": "Monaco",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2017_Monaco_Carabiniers.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "pt",
+        "countryName": "Portugal",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2017_Portugal_Brandao.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lv",
+        "countryName": "Latvia",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2017_Latvia_Latgale.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lu",
+        "countryName": "Luxembourg",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2017_Luxembourg_GrandDuke.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "va",
+        "countryName": "Vatican",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2017_Vatican_Fatima.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fi",
+        "countryName": "Finland",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2017_Finland_Nature.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "cy",
+        "countryName": "Cyprus",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2017_Cyprus_Paphos.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fr",
+        "countryName": "France",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2017_France_pink_ribbon.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "be",
+        "countryName": "Belgium",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2017_Belgium_Ghent.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sm",
+        "countryName": "San Marino",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2017_SanMarino_Turismo.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lv",
+        "countryName": "Latvia",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2017_Latvia_Kurzeme.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lt",
+        "countryName": "Lithuania",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2017_Lithuania_Vilnius.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "et",
+        "countryName": "Estonia",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2017_Estonia_Independence.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "gr",
+        "countryName": "Greece",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2017_Greece_Nikos.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "gr",
+        "countryName": "Greece",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2017_Greece_Philippi.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "pt",
+        "countryName": "Portugal",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2017_Portugal_public_security.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "va",
+        "countryName": "Vatican",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2017_Vatican_Saint_Peter_Saint_Paul.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "mt",
+        "countryName": "Malta",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2017_Malta_Hagar_Qim.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fi",
+        "countryName": "Finland",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2017_finland_independence.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "it",
+        "countryName": "Italy",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2017_Italy_Titus.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "be",
+        "countryName": "Belgium",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2017_belgium_liege.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sm",
+        "countryName": "San Marino",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2017_san_marino_giotto.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "es",
+        "countryName": "Spain",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2017_spain_asturias.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "de",
+        "countryName": "Germany",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2017_germany_rhineland.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sk",
+        "countryName": "Slovakia",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2017_slovakia_university.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sl",
+        "countryName": "Slovenia",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2017_slovenia_anniversary.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fr",
+        "countryName": "France",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2017_france_centenary.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lu",
+        "countryName": "Luxembourg",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2017_luxembourg_anniversary.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "it",
+        "countryName": "Italy",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2017_italy_venice.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "ad",
+        "countryName": "Andorra",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2018_andorra_70yrs_declhumrights.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "mt",
+        "countryName": "Malta",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2018_malta_culherit.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fi",
+        "countryName": "Finland",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2018_finland_finsauna.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "be",
+        "countryName": "Belgium",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2018_belgium_esro2bsat.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "va",
+        "countryName": "Vatican",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2018_vatican_padrepio.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "gr",
+        "countryName": "Greece",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2018_greece_kostispalamas.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "gr",
+        "countryName": "Greece",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2018_greece_dodecanese.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lv",
+        "countryName": "Latvia",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2018_latvia_zemgale.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lu",
+        "countryName": "Luxembourg",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2018_luxembourg_175thanniv_duke.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sm",
+        "countryName": "San Marino",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2018_sanmarino_bernini.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "mt",
+        "countryName": "Malta",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2018_malta.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "pt",
+        "countryName": "Portugal",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2018_portugal_botangarden.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "mo",
+        "countryName": "Monaco",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2018_monaco_bosio.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "pt",
+        "countryName": "Portugal",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2018_portugal_offprintworks.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "be",
+        "countryName": "Belgium",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2018_belgium.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fr",
+        "countryName": "France",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2018_france.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "va",
+        "countryName": "Vatican",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2018_vatican.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sm",
+        "countryName": "San Marino",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2018_sanmarino_anniversery.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fi",
+        "countryName": "Finland",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2018_finland_landscape.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lt",
+        "countryName": "Lithuania",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2018_lithuania_song.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sl",
+        "countryName": "Slovenia",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2018_slovenia_bee.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "it",
+        "countryName": "Italy",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2018_italy_health.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "es",
+        "countryName": "Spain",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2018_spain_felipe.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "es",
+        "countryName": "Spain",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2018_spain_santiago.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "ad",
+        "countryName": "Andorra",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2018_andorra-25const.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lt",
+        "countryName": "Lithuania",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2018_lithuania_joint.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lv",
+        "countryName": "Latvia",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2018_latvia_joint.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "et",
+        "countryName": "Estonia",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2018_estonia_joint.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "et",
+        "countryName": "Estonia",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2018_estonia_independence.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "de",
+        "countryName": "Germany",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2018_germany_anniversary.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fr",
+        "countryName": "France",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2018_france_cornflower.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "it",
+        "countryName": "Italy",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2018_italy_anniversary.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sk",
+        "countryName": "Slovakia",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2018_slovakia_anniversary.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lu",
+        "countryName": "Luxembourg",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2018_Luxembourg_150years.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "de",
+        "countryName": "Germany",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2018_Germany_berlin.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "at",
+        "countryName": "Austria",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2017_Austria_100years.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "ad",
+        "countryName": "Andorra",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2019_ad_600yrs_councilland.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "et",
+        "countryName": "Estonia",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2019_et_centUnivTartu.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sl",
+        "countryName": "Slovenia",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2019_sv_100anni_university_ljublja.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lt",
+        "countryName": "Lithuania",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2019_lt_sutartines.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lt",
+        "countryName": "Lithuania",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2019_lt_samogitia.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "pt",
+        "countryName": "Portugal",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2019_pt_madeira.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "pt",
+        "countryName": "Portugal",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2019_pt_Fernao_De_Magalhaes.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "mt",
+        "countryName": "Malta",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2019_mt_nature_dvpt.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "va",
+        "countryName": "Vatican",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2019_vt_sistine.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fr",
+        "countryName": "France",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2019_fr_30anniv_fallBerlinwall.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "de",
+        "countryName": "Germany",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2019_de_30anniv_fallBerlinwall.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fi",
+        "countryName": "Finland",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2019_fi_constitution_act.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lu",
+        "countryName": "Luxembourg",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2019_lu_100anni_uni_suffrage.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lv",
+        "countryName": "Latvia",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2019_lv_rising_sun.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sm",
+        "countryName": "San Marino",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2019_sm_550anniv_deathLippi.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "mt",
+        "countryName": "Malta",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2019_mt_Ta_Hagrat.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "et",
+        "countryName": "Estonia",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2019_et_150yrSongfestival.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "gr",
+        "countryName": "Greece",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2019_el_150memAndrKalv.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "gr",
+        "countryName": "Greece",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2019_el_centbirthManAndr.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "mo",
+        "countryName": "Monaco",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2019_mc_200annivthronePrHonV.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fr",
+        "countryName": "France",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2019_fr_60annivAsterix.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sk",
+        "countryName": "Slovakia",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2019_sk_100annivdeathMRS.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sm",
+        "countryName": "San Marino",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2019_sm_500annivdeathLeoDV.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "ad",
+        "countryName": "Andorra",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2019_ad_Skiwldcup.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "va",
+        "countryName": "Vatican",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2019_vc_Vatctyst.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "es",
+        "countryName": "Spain",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2019_es_Avila.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "ie",
+        "countryName": "Ireland",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2019_ie_100anniv_Irishparliament.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "de",
+        "countryName": "Germany",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2019_de_70anniv_Bundesrat.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "it",
+        "countryName": "Italy",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2019_500anniv_Leodavinci.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lu",
+        "countryName": "Luxembourg",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2019_100anniv_throneGrDuCharl.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "be",
+        "countryName": "Belgium",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2019_450anniv_PieterBreugeltheelder.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "be",
+        "countryName": "Belgium",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2019_belgium_25anniv_EMI.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lu",
+        "countryName": "Luxembourg",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2020_lu_birth_prince_charles.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "pt",
+        "countryName": "Portugal",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2020_pt_university_coimbra.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sk",
+        "countryName": "Slovakia",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2020_sk_anniversary_oecd.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "cy",
+        "countryName": "Cyprus",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2020_cy_institute_neurology.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lt",
+        "countryName": "Lithuania",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2020_li_unesco_kalnas.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fi",
+        "countryName": "Finland",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2020_fi_100_linna.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "mt",
+        "countryName": "Malta",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2020_mt_children_games.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "de",
+        "countryName": "Germany",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2020_de_50_kniefall_warschau.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fr",
+        "countryName": "France",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2020_fr_medical_research.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "va",
+        "countryName": "Vatican",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2020_vc_500raphael_sanzio.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sm",
+        "countryName": "San Marino",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2020_sm_250giambattista_tiepolo.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fi",
+        "countryName": "Finland",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2020_fi_100turku_univerity.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "ad",
+        "countryName": "Andorra",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2020_ad_50female_suffrage.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sl",
+        "countryName": "Slovenia",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2020_sl_birth_bohoric.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lv",
+        "countryName": "Latvia",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2020_lv_latgalian_ceramics.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fr",
+        "countryName": "France",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2020_fr_charles_de_gaulle.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "ad",
+        "countryName": "Andorra",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2020_ad_27ibamsum.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "mo",
+        "countryName": "Monaco",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2020_mc_300princehonoreiii.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "it",
+        "countryName": "Italy",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2020_it_150mariamontessori.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "gr",
+        "countryName": "Greece",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2020_gr_union_thrace.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "be",
+        "countryName": "Belgium",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2020_be_janvaneyck.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "pt",
+        "countryName": "Portugal",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2020_pt_75un.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "mt",
+        "countryName": "Malta",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2020_mt_skorba.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "va",
+        "countryName": "Vatican",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2020_sm_popejpii.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sm",
+        "countryName": "San Marino",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2020_sm_raphael.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lt",
+        "countryName": "Lithuania",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2020_lt_aucksta.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "et",
+        "countryName": "Estonia",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2020_et_bicdiscAnt.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "es",
+        "countryName": "Spain",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2020_es_unesco_aragon.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "de",
+        "countryName": "Germany",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2020_de_brandenburg.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "be",
+        "countryName": "Belgium",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2020_be_iyph.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "et",
+        "countryName": "Estonia",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2020_et_centTartuPeaceTreaty.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "it",
+        "countryName": "Italy",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2020_it_80annivFoundNatFiredept.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lu",
+        "countryName": "Luxembourg",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2020_lu_200annivbirthPrHenri.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "gr",
+        "countryName": "Greece",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/shared/img/comm_2020_gr_battle_thermopylae.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "ad",
+        "countryName": "Andorra",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2021/comm_2021_ad_4q2.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "ad",
+        "countryName": "Andorra",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2021/comm_2021_ad_4q1.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sk",
+        "countryName": "Slovakia",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2021/comm_2021_sk_november.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fi",
+        "countryName": "Finland",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2021/comm_2021_fl_autumn.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "be",
+        "countryName": "Belgium",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2021/comm_2021_be_autumn.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "et",
+        "countryName": "Estonia",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2021/comm_2021_estonia-wolf.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "mt",
+        "countryName": "Malta",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2021/comm_2021_mt_tarxien_temples_1.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "va",
+        "countryName": "Vatican",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2021/comm_2021_va_october.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sl",
+        "countryName": "Slovenia",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2021/comm_2021_sl_october.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fr",
+        "countryName": "France",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2021/comm_2021_fr_olympic.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "et",
+        "countryName": "Estonia",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2021/comm_2021_ee_september.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sm",
+        "countryName": "San Marino",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2021/comm_2021_mr_august.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "mo",
+        "countryName": "Monaco",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2021/comm_2021_mc_july.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lt",
+        "countryName": "Lithuania",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2021/comm_2021_lt_3q.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "va",
+        "countryName": "Vatican",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2021/comm_2021_va_june.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "mt",
+        "countryName": "Malta",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2021/comm_2021_mt_june.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "be",
+        "countryName": "Belgium",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2021/comm_2021_be_summer.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "pt",
+        "countryName": "Portugal",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2021/comm_2021_pt_olympics.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fi",
+        "countryName": "Finland",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2021/comm_2021_fi_finnish_democracy.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lt",
+        "countryName": "Lithuania",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2021/comm_2021_lt_unesco_zuvintas.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "gr",
+        "countryName": "Greece",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2021/comm_2021_gr_200_greek_revolution.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lv",
+        "countryName": "Latvia",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2021/comm_2021_lv_100_anniversary_iure.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sm",
+        "countryName": "San Marino",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2021/comm_2021_sm_march.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fr",
+        "countryName": "France",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2021/comm_2021_fr_unicef.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "es",
+        "countryName": "Spain",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2021/comm_2021_es_unesco_toledo.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lu",
+        "countryName": "Luxembourg",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2021/comm_2021_lu_mariage_duke_henry.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "de",
+        "countryName": "Germany",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2021/comm_2021_de_saxony_anhalt.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "it",
+        "countryName": "Italy",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2021/comm_2021_it_150_rome_capital.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "it",
+        "countryName": "Italy",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2021/comm_2021_it_grazie.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lu",
+        "countryName": "Luxembourg",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2021/comm_2021_lu_grand_duc_anniversary.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "pt",
+        "countryName": "Portugal",
+        "url": "https://www.ecb.europa.eu/euro/coins/comm/html/comm_2021/comm_2021_pt_council_presidency.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "eu",
+        "countryName": "Euro area countries",
+        "url": "specialPathttps://www.ecb.europa.eu/euro/coins/comm/html/comm_2022/placeholder_coming_soon_to_duplicate.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "fr",
+        "countryName": "France",
+        "url": "specialPathttps://www.ecb.europa.eu/euro/coins/comm/html/comm_2022/FR-chirac.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "it",
+        "countryName": "Italy",
+        "url": "specialPathttps://www.ecb.europa.eu/euro/coins/comm/html/comm_2022/IT-borsellino.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "it",
+        "countryName": "Italy",
+        "url": "specialPathttps://www.ecb.europa.eu/euro/coins/comm/html/comm_2022/IT-policia.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "de",
+        "countryName": "Germany",
+        "url": "specialPathttps://www.ecb.europa.eu/euro/coins/comm/html/comm_2022/DE-thueringen.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "lu",
+        "countryName": "Luxembourg",
+        "url": "specialPathttps://www.ecb.europa.eu/euro/coins/comm/html/comm_2022/LU-lezteburg.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    },
+    {
+        "countryCode": "sl",
+        "countryName": "Slovenia",
+        "url": "specialPathttps://www.ecb.europa.eu/euro/coins/comm/html/comm_2022/SL-slovenia.jpg",
+        "particularity": "",
+        "imageExtension": "jpg",
+        "value": "2euro",
+        "specialPath": null
+    }
+]
