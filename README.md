@@ -39,13 +39,14 @@ Currently, there are two scrapers implemented:
 Images are downloaded in the following folder structure:
 
 ```bash
-{root}/coins/{countryCode}_{value}_{particularity}.{imageExtension}
+{root}/coins/{scraperDetails}/{countryCode}_{value}_{particularity}.{imageExtension}
 ```
 
 Where:
 
 - `{root}` is the root folder given as argument (cf. [here](#-r---root))
 - `{countryCode}` is the country code in two letters of the coin (e.g. `fr` for France, `ad` for Andorra, etc.)
+- `{scraperName}` can be null, (depending on the scraper settings, cf. [Add a scraper](#add-a-scraper)), if null, images are downloaded in `{root}/coins/`
 - `{value}` is the value of the coin (e.g. 1euro, 2cents, etc.), cf. [this list](#regular-coins)
 - `{particularity}` is the particularity of the coin (e.g. 2019, 2018, 2017, etc.) or null if there is only one coin for this country (cf. [here](#special-coins))
 - `{imageExtension}` is the extension of the image (`jpg`, `.png`, etc.) from the scraped website.
