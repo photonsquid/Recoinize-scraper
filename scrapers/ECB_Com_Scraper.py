@@ -85,6 +85,9 @@ class ECB_Com_Scraper(Scraper):
                                     country_name, img_url)
                                 if parti != "":
                                     parti = part + "_" + parti
+                                else:
+                                    parti = part
+
                                 src.append(
                                     {
                                         "countryCode": country_code,
@@ -99,6 +102,8 @@ class ECB_Com_Scraper(Scraper):
                             country_name, local_url)
                         if parti != "":
                             parti = part + "_" + parti
+                        else:
+                            parti = part
                         src = [
                             {
                                 "countryCode": country_code,

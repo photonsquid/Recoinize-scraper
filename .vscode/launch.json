@@ -9,6 +9,9 @@
             "type": "python",
             "request": "launch",
             "program": "main.py",
+            "args": [
+                "-s"
+            ],
             "console": "integratedTerminal",
             "justMyCode": true
         },

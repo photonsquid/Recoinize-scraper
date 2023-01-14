@@ -25,6 +25,10 @@ The main idea is to generate a lot of different photographs in [Blender](https:/
 For this we need to dynamically build all coins in Blender, and for this, we need textures of all these coins.
 Here we are, scraping all this images.
 
+The sum of the monetary values of all EU coins is €`137.92`.
+The sum of the comemorative €2 coins is €`872`.
+This is without counting the real value on the numismatic market, where some coins can be worth several hundred euros on their own.
+
 ## Description
 
 This script can scrape image URLs from different websites, and download them.
