@@ -58,7 +58,7 @@ Examples of images:
 
 ## Installation
 
-It depends on the script you want to execute. If you already get JSON files,
+It depends on the part of the script you want to execute. If you already get JSON files,
 and don't want to do the scraping part, you can simply run:
 
 ```bash
@@ -66,11 +66,12 @@ pip install -r requirements-downloader.txt
 ```
 
 Else, you need to install [playwright](https://playwright.dev/):
-(`requirements-scraper.txt`) includes `requirements-downloader.txt`, so you don't need to install it twice.
 
 ```bash
 pip install -r requirements-scraper.txt
 ```
+
+(`requirements-scraper.txt`) includes `requirements-downloader.txt`, so you don't need to install it twice.
 
 ## Usages
 
@@ -97,6 +98,8 @@ This is the list of different arguments that can be passed to the command.
 
 This is the root folder that contains the JSON file.
 All images will be downloaded in `{root}/coins/`
+If this argument is not provided, the default value will be read from
+`src/constants.py` (cf. `DEFAULT_ROOT_FOLDER`).
 
 <!-- omit in toc -->
 ### `-s`, `--scrape`
@@ -124,6 +127,8 @@ Example of JSON file:
 ]
 ```
 
+Where:
+
 | field           | type               | description                                                      |
 | --------------- | ------------------ | ---------------------------------------------------------------- |
 | `countryCode`   | `string`           | country code in two letters, cf. [this list](#list-of-countries) |
@@ -140,11 +145,11 @@ It is null if there is only one coin.
 
 ## List of countries
 
-You can find the list of countries in this file.
+You can find the list of countries [here](https://github.com/seba1204/coin-scraper/wiki/List-of-countries).
 
 ## List of coins
 
-You can find the list of all euro coins in this file.
+You can find the list of all euro coins [here](https://github.com/seba1204/coin-scraper/wiki/List-of-coins).
 
 <!-- omit in toc -->
 ### Regular coins
