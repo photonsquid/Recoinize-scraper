@@ -1,7 +1,5 @@
 import logging
 
-import src.scraper as scraper
-from src.constants import COIN_VALUES, URL
 from src.error_messages import JSON_WRONG_SCHEMA
 from src.json import (check_json_file, check_json_schema, read_json,
                       save_to_json)
@@ -19,8 +17,9 @@ def check_json(json_file: str, logger: logging.Logger):
     return 0
 
 
-def get_images(logger: logging.Logger, args):
+def get_images(scraper, logger: logging.Logger, args):
 
+    json_path = scraper.json_path
     json_data = {}
     need_to_scrape = False
 
@@ -31,7 +30,7 @@ def get_images(logger: logging.Logger, args):
             "-s (--scrape-only) flag is set, scraping data without reading any json file...")
     else:
         # check if the json file is valid
-        isFile = check_json(args.json_path, logger)
+        isFile = check_json(json_path, logger)
         if isFile == 1:
             # file is not present, we need to scrape data, and generate the json file
             need_to_scrape = True
@@ -46,25 +45,24 @@ def get_images(logger: logging.Logger, args):
         # file is not present, we need to scrape data, and generate the json file
         logger.info("Scraping data...")
         # scrape data from the website
-        json_data = scraper.main(URL, COIN_VALUES, logger)
+        json_data = scraper.scrape()
 
         # save the data to a json file
-        save_to_json(args.json_path, json_data, logger)
+        save_to_json(json_path, json_data, logger)
     else:
         # file is present, and respects the schema
         # read data from json file
         logger.info("Reading data from json file...")
-        json_data = read_json(args.json_path, logger)
+        json_data = read_json(json_path, logger)
 
     return json_data
 
 
-def scrape(logger, args):
+def scrape(scraper, logger, args):
     """Scrape the data from the website"""
 
     # get lis of images
-    jsonData = get_images(logger, args)
+    jsonData = get_images(scraper, logger, args)
 
     # for each image, download it
-
     return jsonData

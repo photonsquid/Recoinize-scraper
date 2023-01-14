@@ -1,8 +1,6 @@
-import json
-import os
-
+from scrapers.ECB_Com_Scraper import ECB_Com_Scraper
+from scrapers.ECB_Scraper import ECB_Scraper
 from src.arguments import check_safe_ouput, log_args, parse_args
-from src.json import check_json_file, check_json_schema
 from src.logger import set_logger
 from src.scrape import scrape
 
@@ -23,12 +21,14 @@ def main():
 
     logger.debug(log_args(args))
 
-    # if 'scrape_only' is set, then scrape (override the json file if it exists), and exit
-    # if 'scrape_only' is not set, then scrape and download the images
+    scrapers = [
+        ECB_Com_Scraper(args, logger),
+    ]
 
-    images = scrape(logger, args)
-
-    # download_images(images, logger, args)
+    # for each scrapers, scrape
+    for scraper in scrapers:
+        images = scrape(scraper, logger, args)
+        # download the images
 
 
 if __name__ == "__main__":

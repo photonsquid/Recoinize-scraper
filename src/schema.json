@@ -25,6 +25,12 @@
             },
             "imageExtension": {
                 "type": "string"
+            },
+            "specialPath": {
+                "type": [
+                    "string",
+                    "null"
+                ]
             }
         },
         "required": [
@@ -33,7 +39,8 @@
             "countryCode",
             "value",
             "countryName",
-            "imageExtension"
+            "imageExtension",
+            "specialPath"
         ]
     }
 }

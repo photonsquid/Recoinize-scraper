@@ -11,3 +11,9 @@ JSON_SCHEMA_NOT_FOUND = "JSON schema not found. Should be at {}"
 READING_ERROR = "Error while reading a file."
 WRITING_ERROR = "Error while writing a file."
 SAVING_ERROR = "Error while saving a file."
+
+SCRAPER_NAME_NOT_SET = "Scraper name not set."
+SCRAPER_BASE_URL_NOT_SET = "Scraper base url not set."
+
+CHANGING_ROOT = "Root is now {}"
+CHANGING_JSON_PATH = "JSON path is now {}"
